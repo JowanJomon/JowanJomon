@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Frontend Development Course on Scrimba**
 
-- 🌱 I’m currently learning **JS and React**
+- 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **finding a job in Tech**
 
