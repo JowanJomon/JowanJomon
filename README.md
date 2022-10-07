@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jowan Manjooran Jomon</h1>
-<h3 align="center">A frontend developer from Toronto. I love breaking computers and reading books. When I am not coding I am usually in Valentine bounty hunting or crashing illustrator(RDR2). Thanks for stopping by🍄</h3>
+<h3 align="center">A frontend developer from Toronto. I love breaking computers and reading books. When I am not coding I am usually in Valentine bounty hunting or crashing illustrator. Thanks for stopping by🍄</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jowanjomon&label=Profile%20views&color=0e75b6&style=flat" alt="jowanjomon" /> </p>
 
