@@ -23,6 +23,8 @@
 
 - ⚡ Fun fact **I love the smell of old wrinkled books📚**
 
+- ✨  My Portfolio - [https://jowanjomon.netlify.app/](https://jowanjomon.netlify.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jowanjomon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jowanjomon" height="30" width="40" /></a>
