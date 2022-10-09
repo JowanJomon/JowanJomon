@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jowan Manjooran Jomon</h1>
 <h3 align="center">A frontend developer from Toronto. I love breaking computers and reading books. When I am not coding I am usually in Valentine bounty hunting or crashing illustrator. Thanks for stopping by🍄</h3>
-<img src="[https://media0.giphy.com/media/c9IdCLK8TDv1e/giphy.gif?cid=ecf05e47nf4xtsg9cpyizgd8fxv12pu9uqg28qsi3l3jzq55&rid=giphy.gif&ct=g](https://media0.giphy.com/media/gfld3S4CsRXRZjqEj3/giphy.gif?cid=ecf05e478dv07pols6ocfjuf0k7g1raeh7oyrkp5u3qemcuq&rid=giphy.gif&ct=g)">
+
+<img src="https://media0.giphy.com/media/gfld3S4CsRXRZjqEj3/giphy.gif?cid=ecf05e478dv07pols6ocfjuf0k7g1raeh7oyrkp5u3qemcuq&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jowanjomon&label=Profile%20views&color=0e75b6&style=flat" alt="jowanjomon" /> </p>
 
