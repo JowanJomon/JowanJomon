@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I love the smell of old wrinkled books📚**
 
-- ✨  My Portfolio - [https://jowanjomon.netlify.app/](https://jowanjomon.netlify.app/)
+- ✨  My Portfolio - [https://www.jowanjomon.com](https://www.jowanjomon.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
