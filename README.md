@@ -27,7 +27,7 @@
 
 - ✨  My Portfolio - [https://www.jowanjomon.com](https://www.jowanjomon.com)
 
-- ✨  Linktree - [https://linktr.ee/nightcrawlerstudio](https://linktr.ee/nightcrawlerstudio)
+- 🌳  Linktree - [https://linktr.ee/nightcrawlerstudio](https://linktr.ee/nightcrawlerstudio)
 
 
 <h3 align="left">Connect with me:</h3>
