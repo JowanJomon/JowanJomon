@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://twitter.com/jowanjomon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jowanjomon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jowanjomon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jowan-manjooran-jomon-477b0112a/" height="30" width="40" /></a>
-<a href="https://instagram.com/jowanjomondesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jowanjomondesigns" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nightcrawlerstudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jowanjomondesigns" height="30" width="40" /></a>
 <a href="https://www.behance.net/jowanjomon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jowanjomon" height="30" width="40" /></a>
 </p>
 
