@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JowanJomon?tab=repositories](https://github.com/JowanJomon?tab=repositories)
 
-- 🚀I post my designs on [https://www.behance.net/jowanjomon](https://www.behance.net/nightcrawlerstudio)
+- 🚀I post my designs on [https://www.behance.net/nightcrawlerstudio](https://www.behance.net/nightcrawlerstudio)
 
 - 💬 Ask me about **HTML,CSS,JS,UI DESIGN,IDENTITY DESIGN**
 
@@ -26,6 +26,9 @@
 - ⚡ Fun fact **I love the smell of old wrinkled books📚**
 
 - ✨  My Portfolio - [https://www.jowanjomon.com](https://www.jowanjomon.com)
+
+- ✨  Linktree - [https://linktr.ee/nightcrawlerstudio](https://linktr.ee/nightcrawlerstudio)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
