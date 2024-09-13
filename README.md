@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jowan Manjooran Jomon</h1>
+<h1 align="center">Hi 👋, I'm Jowan</h1>
 <h3 align="center">A frontend developer and graphic designer based in Waterloo I love breaking computers and reading books. I am usually in Valentine bounty hunting or crashing Illustrator. Thanks for stopping by🍄</h3>
 
 <img src="https://media0.giphy.com/media/gfld3S4CsRXRZjqEj3/giphy.gif?cid=ecf05e478dv07pols6ocfjuf0k7g1raeh7oyrkp5u3qemcuq&rid=giphy.gif&ct=g">
