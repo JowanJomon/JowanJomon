@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jowan Manjooran Jomon</h1>
-<h3 align="center">A frontend developer from Toronto. I love breaking computers and reading books. When I am not stoned I am usually in Valentine bounty hunting or crashing illustrator. Thanks for stopping by🍄</h3>
+<h3 align="center">A frontend developer and graphic designer based in Waterloo I love breaking computers and reading books. When I am not stoned I am usually in Valentine bounty hunting or crashing illustrator. Thanks for stopping by🍄</h3>
 
 <img src="https://media0.giphy.com/media/gfld3S4CsRXRZjqEj3/giphy.gif?cid=ecf05e478dv07pols6ocfjuf0k7g1raeh7oyrkp5u3qemcuq&rid=giphy.gif&ct=g">
 
@@ -9,19 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/jowanjomon" target="blank"><img src="https://img.shields.io/twitter/follow/jowanjomon?logo=twitter&style=for-the-badge" alt="jowanjomon" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Development Course on Scrimba**
-
-- 🌱 I’m currently learning **React**
-
-- 🤝 I’m looking for help with **finding a job in Tech**
-
-- 👨‍💻 All of my projects are available at [https://github.com/JowanJomon?tab=repositories](https://github.com/JowanJomon?tab=repositories)
+- 🔭 I’m currently pursuing GBDA at the University of Waterloo.
 
 - 🚀I post my designs on [https://www.behance.net/nightcrawlerstudio](https://www.behance.net/nightcrawlerstudio)
+- - 👨‍💻 All of my projects are available at [https://github.com/JowanJomon?tab=repositories](https://github.com/JowanJomon?tab=repositories)
 
-- 💬 Ask me about **HTML,CSS,JS,UI DESIGN,IDENTITY DESIGN**
 
-- 📫 How to reach me **jowanjomon619@gmail.com**
+- 💬 Ask me about **HTML, CSS, JS, UI DESIGN, IDENTITY DESIGN**
+
+- 📫 How to reach me **jowanmanjooran98@gmail.com**
 
 - ⚡ Fun fact **I love the smell of old wrinkled books📚**
 
