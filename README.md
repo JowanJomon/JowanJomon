@@ -12,10 +12,10 @@
 - 🔭 I’m currently pursuing GBDA at the University of Waterloo.
 
 - 🚀I post my designs on [https://www.behance.net/nightcrawlerstudio](https://www.behance.net/nightcrawlerstudio)
-- - 👨‍💻 All of my projects are available at [https://github.com/JowanJomon?tab=repositories](https://github.com/JowanJomon?tab=repositories)
 
+- 👨‍💻 All of my projects are available at [https://github.com/JowanJomon?tab=repositories](https://github.com/JowanJomon?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JS, UI DESIGN, IDENTITY DESIGN**
+- 💬 Ask me about **HTML, CSS, JS, UI Design, Identity Design and Visuals**
 
 - 📫 How to reach me **jowanmanjooran98@gmail.com**
 
