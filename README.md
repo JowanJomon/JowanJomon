@@ -1,4 +1,4 @@
-# Jowan Manjooran
+# Jowan Manjooran Jomon
 
 Frontend Developer · Product & Brand Designer  
 Waterloo, Canada
