@@ -51,15 +51,7 @@ Bootstrap, Materialize, D3
 
 ---
 
-## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jowanjomon&show_icons=true&locale=en&layout=compact)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=jowanjomon&show_icons=true&locale=en)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jowanjomon&)
-
----
 
 ## 📫 Contact
 
