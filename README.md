@@ -34,7 +34,7 @@ My work focuses on:
 - Portfolio: https://jowanjomon.vercel.app  
 - Behance: https://www.behance.net/nightcrawlerstudio  
 - GitHub: https://github.com/JowanJomon  
-- Linktree: https://linktr.ee/nightcrawlerstudio  
+
 
 ---
 
